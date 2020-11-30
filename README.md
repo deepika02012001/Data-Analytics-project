@@ -5,7 +5,8 @@ College project
 # Dataset:
 EPA Fuel Economy Testing:
 
-https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-   economy
+https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy
+
 We use 2010 and 2012 datasets.
 DOE Fuel Economy Data:
 
@@ -109,5 +110,5 @@ Python Jupyter Notebook
 - Police - Emergency Vehicle?
 - Averaging Group Id
 - Averaging Weighting Factor
-> Averaging Method Cd
-> Averging Method Desc
+- Averaging Method Cd
+- Averging Method Desc
