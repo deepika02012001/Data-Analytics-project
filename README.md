@@ -20,25 +20,25 @@ https://www.fueleconomy.gov/feg/download.shtml/
 
 
 # Data : 
-folder contains all the datasets before and after cleaning and updation.
+Folder containing all the datasets before and after cleaning and updation.
 
 # Code: 
 Python Jupyter Notebook
 
 # Libraries used:
- > Numpy
- > Seaborn
- > Matplotlib
- > Pandas
- > Pyplot
- > Collections
- > sklearn.model : train_test_split
- > sklearn.preprocessing : StandardScaler
- > from sklearn.tree : DecisionTreeRegressor
- > from sklearn.linear_model : LinearRegression
- > from sklearn.datasets : make_regression
- > from sklearn.ensemble : RandomForestRegressor
- > from sklearn.neighbors : KNeighborsRegressor
+ - Numpy
+ - Seaborn
+ - Matplotlib
+ - Pandas
+ - Pyplot
+ - Collections
+ - sklearn.model : train_test_split
+ - sklearn.preprocessing : StandardScaler
+ - from sklearn.tree : DecisionTreeRegressor
+ - from sklearn.linear_model : LinearRegression
+ - from sklearn.datasets : make_regression
+ - from sklearn.ensemble : RandomForestRegressor
+ - from sklearn.neighbors : KNeighborsRegressor
 
 # Attributes in the datasets:
 
