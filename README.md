@@ -12,7 +12,7 @@ DOE Fuel Economy Data:
 
 https://www.fueleconomy.gov/feg/download.shtml/
 
-# Contents in the code file “Datalytics.ipnyb” :
+# Contents in the code file “Datalytics_fuel_economy_code_file.ipnyb” :
 1. Knowing the data attributes
 2. Data Preprocessing
 3. Data Visualization
